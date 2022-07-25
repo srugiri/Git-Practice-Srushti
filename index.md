@@ -8,8 +8,8 @@ Created by Srushti for experimenting with Git etc.
 git init
 
 ## Commit Workflow
-git add filename
-git commit
+- git add filename
+- git commit
 
 ## Checking status
 git status
