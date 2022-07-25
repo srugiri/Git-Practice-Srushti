@@ -9,6 +9,10 @@ git init
 
 ## Commit Workflow
 git add filename
+git commit
 
 ## Checking status
 git status
+
+## Checking commits
+git log
