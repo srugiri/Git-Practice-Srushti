@@ -18,6 +18,6 @@ git status
 git log
 
 ## Add Remote
-git remote add remote_name and URL
--Generally the default origin is called ```Origin```
-git remote v-
+- git remote add remote_name and URL
+- Generally the default origin is called ```Origin```
+- git remote v-
